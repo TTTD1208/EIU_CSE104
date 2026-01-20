@@ -9,8 +9,7 @@ public class EISALARY2 {
         int n = sc.nextInt();
         double[] result = new double[n];
         for (int k = 0; k < n; k++) {
-            double timeOT = 0;
-            double timeOffice = 0;
+            
             double salary = 0;
             double officePart = 0;
             double otPart = 0;
