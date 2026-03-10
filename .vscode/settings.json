@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "Week7",
         "Week6",
         "Week5",
         "Week4",
-        "Week7"
+        "caculate"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
